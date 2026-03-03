@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 from config import *
 
-df = pd.read_csv(saidaCSV)
+df = pd.read_csv(saidaCSV, quotechar = "'")
 df = df.sort_values(by = 'Nota', ascending = True)
 
 fig = px.bar(
