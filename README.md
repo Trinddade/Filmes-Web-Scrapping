@@ -1,4 +1,4 @@
-# Web Scraping de Filmes - AdoroCinema
+# Web Scraping de Filmes
 
 Este projeto realiza **web scraping no site AdoroCinema** para coletar informações sobre filmes e armazenar esses dados para análise.
 
